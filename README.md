@@ -12,21 +12,31 @@
 
 
 <p align="center">ABOUT ME</p>
-# Hi there 👋,
+  Hello! My name is **Ivan Renzmond Castulo**, and I am a **2nd-year Industrial Engineering student** at the **Technological Institute of the Philippines, Quezon City Campus**. I have a solid foundation in **process analysis, operations management, and systems optimization**, which enables me to understand and improve complex systems efficiently.
+  
+  I am currently taking **Fundamentals of Data Science**, where I am developing skills in **data analysis, statistics, and problem-solving**. This experience has strengthened my ability to extract actionable insights from data and apply them to real-world challenges.
 
- Hello, my name is Ivan Renzmond Castulo. I am currently an 2nd year Industrial Engineering student who studied at Technological Institute of the Philippines in Quezon City Campus with a background in process analysis, operations management, and systems optimization. At present, I am taking Fundamentals of Data Science, where I am building skills in data analysis, statistics, and problem-solving. I am interested in applying data-driven methods to improve efficiency, productivity, and decision-making in industrial and business environments.
+  I am passionate about using **data-driven approaches** to enhance efficiency, productivity, and decision-making in industrial and business environments. My goal is to contribute to meaningful projects, continuously grow my skills, and make a positive impact in the fields of **industrial engineering and data science**.
 
 ---
 
 ## 🚀 About Me
 🎓 Currently exploring the world of technology at the **Technological Institute of the Philippines**.  
+
 💻 Passionate about coding, building projects, and learning new programming languages.  
+
 🚀 Always eager to collaborate on exciting open-source projects and improve my skills.
+
 🔭 I’m currently working on **[Fundamentals of Data Science]**
+
 🌱 I’m currently learning **[Technology/Skill]**
-👯 I’m looking to collaborate on **[using pythoon]**
-📫 How to reach me: [Ivanrenzmondc@gmail.com)
-📱 Phone Number: +63-995-324-2122
+
+👯 I’m looking to collaborate on **[<u>using pythoon</u>]**
+
+📫 How to reach me: [<u>Ivanrenzmondc@gmail.com</u>)
+
+📱 Phone Number: **[<u>+63-995-324-2122</u>]**
+
 ⚡ Fun fact: I **[I love adventure and travel]**
 
 ---
